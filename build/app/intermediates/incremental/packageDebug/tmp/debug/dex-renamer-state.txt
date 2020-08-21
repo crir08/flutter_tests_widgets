@@ -1,0 +1,4 @@
+#Fri Aug 21 15:33:21 EDT 2020
+base.0=/home/christophe/ProjetsFlutter/Tests/tests/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
